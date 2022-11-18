@@ -1,4 +1,6 @@
 # Pic
-Self-use photo repository /n
+Self-use photo repository
+
 Change DNS can see
-DNS:205.251.192.181
+
+DNS : 205.251.192.181
